@@ -25,9 +25,14 @@ It is possible to make the prediction. However, the dateset is not large enough,
 
 ## Modeling method:
 
+Logistic
+
 ExtraTrees
+
 RandomForest
+
 SVC
+
 KNeighbors
 
 ## Final Model:
